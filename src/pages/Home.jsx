@@ -3,7 +3,7 @@ import { FaGlobe, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa";
 import FAQSection from "../components/FAQuestion";
 import Navbar from "../components/Navbar";
 import Thingstodo from "../components/Thingstodo";
-import Itinerary from "../components/itinerary";
+import Itinerary from "../components/Itinerary";
 import Booking from "../components/Booking";
 import { CiUser, CiMap, CiStreamOn, CiPaperplane, } from "react-icons/ci";
 import { GoDownload } from "react-icons/go";
